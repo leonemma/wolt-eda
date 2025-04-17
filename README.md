@@ -92,7 +92,7 @@ These values provide a high-level overview of Wolt’s daily performance and can
 
 |            Metric         |   Value  |
 |---------------------------|----------| 
-| Average Daily Subscribers |   730.6  |
+| Average Daily Subscribers |    730.6 |
 |   Average Daily Orders    | 2,445.03 |
 |  Average Daily Income (€) | 70,376.5 | 
 

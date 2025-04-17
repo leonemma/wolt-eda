@@ -90,11 +90,9 @@ To sum up the analysis, we define a few key metrics:
      
 These values provide a high-level overview of Wolt’s daily performance and can serve as useful benchmarks for tracking growth, identifying trends, and evaluating business health over time.
 
-|            Metric         |  Value  |
-|---------------------------|---------|
-| Average Daily Subscribers |  730.6  |
-|---------------------------|---------|
-|   Average Daily Orders    | 2445.03 |
-|---------------------------|---------|
-|  Average Daily Income (€) |€70,376.5|
+|            Metric         |   Value   |
+|---------------------------|-----------| 
+| Average Daily Subscribers |   730.6   |
+|   Average Daily Orders    |  2445.03  |
+|  Average Daily Income (€) | €70,376.5 | 
 

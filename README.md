@@ -43,13 +43,13 @@ As we see from the pie plot below, nearly half of Wolt's users made no purchase,
 Focusing on the distribution of the purchase count, we observe that only 22% of users made more than three purchases, suggesting a relatively small but highly engaged segment. Additionally, purchase activity declines significantly after the first transaction, highlighting potential challenges in encouraging repeat purchases."
 
   
-![Purchase_Count](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/purchase_count.png)
+![Purchase_Count](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/1purchase_count_final.png)
 
 
 ### 2. Where in the world are Wolt users?
 Next, we focus on the countries where users made their purchases. As seen in the barplot, a few countries dominate user activity, reflecting Wolt’s strongest market presence.
 
-![Country_Distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/8country.png)  
+![Country_Distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/2countries_reg_final.png)  
 
 However, we’re more interested in the proportion of active users each country has.
 The following plot highlights user activity levels by country, giving insight into how engaged Wolt users are across different regions.  

@@ -38,11 +38,15 @@ This analysis focuses on Wolt’s customer data from September 2019, where each 
 
 
 1. **How many Wolt's users made at least one order?**
+   
 As we see from the pie plot below, nearly half of Wolt's users made no purchase, highlighting a large inactive group.
+
 ![ActiveUsers](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/active.png)
 
+  
 Focusing on the distribution of the purchase count, we observe that only 22% of users made more than three purchases, suggesting a relatively small but highly engaged segment. Additionally, purchase activity declines significantly after the first transaction, highlighting potential challenges in encouraging repeat purchases."
 
+  
 ![Purchase_Count](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/purchase_count.png)
 
 

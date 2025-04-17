@@ -92,7 +92,21 @@ These values provide a high-level overview of Wolt’s daily performance and can
 
 |            Metric         |   Value  |
 |---------------------------|----------| 
-| Average Daily Subscribers |    730.6 |
+| Average Daily Subscribers |   730.6  |
 |   Average Daily Orders    | 2,445.03 |
-|  Average Daily Income (€) | 70,376.5 | 
+|  Average Daily Income (€) | 70,376.5 |   
+
+
+### Classifying Customers by Spending Behavior
+To better understand user value, we segment customers based on their total spending (TOTAL_PURCHASES_EUR). We divide the distribution of this feature into three equal parts (tertiles):
+
+- Low Spenders: Users in the lowest third of the distribution.
+- Regulars: Users in the middle third.
+- Premium: Users in the top third, representing the highest spenders.
+
+Additionally, users who have never placed an order are automatically classified as Low Spenders, since they haven’t contributed any spending activity.
+This segmentation helps us analyze behavior across different customer value groups and tailor insights or strategies accordingly.
+
+![Users_Segmentation](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/customer_new.png)
+
 

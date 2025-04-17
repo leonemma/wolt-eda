@@ -77,5 +77,24 @@ After analyzing the heatmap alongside the countplots, we conclude that Thursday 
 - Between 02:00 and 05:00 on Monday and Tuesday
 - Between 00:00 and 02:00 on Friday, Saturday & Sunday
 
-  
+### What do users prefer?
+To get a better sense of user preferences, we look at two key choices: the platform they use (Android, iOS, or Web) and their preferred order type (delivery or takeaway). The donut charts below give us a quick overview of how users interact with Wolt across these options.  
+
+![Users_pref](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/users_pref.png)
+
+### Key Metrics
+To sum up the analysis, we define a few key metrics: 
+1. The average number of daily subscribers,
+2. Average daily orders
+3. Average daily income in EUR.
+     
+These values provide a high-level overview of Wolt’s daily performance and can serve as useful benchmarks for tracking growth, identifying trends, and evaluating business health over time.
+
+|            Metric         |  Value  |
+|---------------------------|---------|
+| Average Daily Subscribers |  730.6  |
+|---------------------------|---------|
+|   Average Daily Orders    | 2445.03 |
+|---------------------------|---------|
+|  Average Daily Income (€) |€70,376.5|
 

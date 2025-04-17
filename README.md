@@ -105,4 +105,7 @@ This segmentation helps us analyze behavior across different customer value grou
 
 ![Users_Segmentation](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/customer_new.png)
 
+### Conclusion
+This analysis provided a detailed look into Wolt users' behavior, preferences, and value to the platform. By examining user activity over time, preferred platforms, order types, and spending patterns, we gained valuable insights into how users interact with the service. Segmenting customers by spending level further helped us identify key user groups—Low Spenders, Regulars, and Premium users—which can guide future marketing strategies and personalized experiences.  
+The code for this project is available [here](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Wolt%20Project.ipynb)
 

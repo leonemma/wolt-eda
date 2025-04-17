@@ -1,21 +1,24 @@
 # Wolt-Purchase-Behavior-Analysis
 
 ## Table-of-Contents
-- [Overview]
-- [Goals]
-- [Data Source]
-- [Key Questions]
-- [Findings]
+- [Overview](Overview)
+- [Goals](Goals)
+- [Data Source](Data-Source)
+- [Key Questions](Key-Questions)
+- [Findings](Findings)
 
 ## Overview
 This analysis focuses on user behavior and purchasing patterns within the Wolt platform during September 2019. The dataset includes 21,983 registered users, capturing their registration details, device preferences, ordering habits, and total spend. Despite high registration numbers, a significant portion of users did not place any orders, making it essential to investigate engagement levels. By analyzing when users order, how often they do so, and how much they spend, the goal is to uncover trends that can inform business strategies. Through visualizations and metrics, the analysis provides a comprehensive look at how customers interact with the platform — from breakfast orders to total monthly spending — helping to turn raw data into actionable insights.
 
 ## Goals
-1. Understand User Behavior:
+1. **Understand User Behavior**:
+   
     Analyze how users interact with the Wolt platform in terms of registration, ordering frequency, and time-based activity.
-2. Identify Spending Patterns:
+3. **Identify Spending Patterns**:
+   
     Explore how much users spend on average, segment customers based on their total purchases, and detect key trends in meal preferences.
-3. Evaluate Platform Engagement:
+5. **Evaluate Platform Engagement**:
+   
    Measure how many users are active, inactive, or one-time buyers, and assess usage patterns across countries and devices.
 
 ## Data Source

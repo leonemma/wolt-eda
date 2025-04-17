@@ -1,17 +1,16 @@
-# Wolt-Purchase-Behavior-Analysis
-----
+# Analyzing Wolt User Behavior
 
-## Table-of-Contents
+## Table of Contents
 - [Overview](#Overview)
 - [Goals](#Goals)
 - [Data Source](#Data-Source)
 - [Findings](#Findings) 
 - [Key Questions](#Key-Questions)
 - [Key Metrics](#Key-Metrics)
+- [Summary](#Summary)
   
 ## Overview
-This analysis focuses on user behavior and purchasing patterns within the Wolt platform during September 2019. The dataset includes 21,983 registered users, capturing their registration details, device preferences, ordering habits, and total spend. Despite high registration numbers, a significant portion of users did not place any orders, making it essential to investigate engagement levels. By analyzing when users order, how often they do so, and how much they spend, the goal is to uncover trends that can inform business strategies. Through visualizations and metrics, the analysis provides a comprehensive look at how customers interact with the platform — from breakfast orders to total monthly spending — helping to turn raw data into actionable insights.
-
+This analysis focuses on user behavior and purchasing patterns within the Wolt platform during September 2019. The dataset includes 21,983 registered users, capturing their registration details, device preferences, ordering habits, and total spend. Despite high registration numbers, a significant portion of users did not place any orders, making it essential to clean a big amount of data and then investigate engagement levels. By analyzing when users order, how often and how much they spend, the goal is to uncover trends that can inform business strategies. Through visualizations and metrics, the analysis provides a comprehensive look at how customers interact with the platform.
 ## Goals
 1. **Understand User Behavior**:
     Analyze how users interact with the Wolt platform in terms of registration, ordering frequency, and time-based activity.
@@ -105,7 +104,7 @@ This segmentation helps us analyze behavior across different customer value grou
 
 ![Users_Segmentation](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/customer_new.png)
 
-### Conclusion
+### Summary
 This analysis provided a detailed look into Wolt users' behavior, preferences, and value to the platform. By examining user activity over time, preferred platforms, order types, and spending patterns, we gained valuable insights into how users interact with the service. Segmenting customers by spending level further helped us identify key user groups—Low Spenders, Regulars, and Premium users—which can guide future marketing strategies and personalized experiences.  
-The code for this project is available [here](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Wolt%20Project.ipynb)
+- The code for this project is available [here](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Wolt%20Project.ipynb)
 

@@ -26,5 +26,24 @@ The dataset used in this analysis was shared publicly by Wolt on their official 
 2. What's the average total spend per user?
 3. What's the best day or hour for a purchase?
 4. Where in the world are Wolt users?
-   
 
+## Findings
+This analysis focuses on Wolt’s customer data from September 2019, where each row represents a registered user. From our analysis we conclude: 
+- There are 21983 unique registered users during this month
+- Users placed 73,351 orders throughout the month
+- Wolt generated approximately €2.1 million in revenue
+- The average spend per user was €176.49
+- The average spend per purchase was €31.10
+
+
+
+1. **How many Wolt's users made at least one order?**
+As we see from the pie plot below, nearly half of Wolt's users made no purchase, highlighting a large inactive group.
+![ActiveUsers](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/active.png)
+
+Focusing on the distribution of the purchase count, we observe that only 22% of users made more than three purchases, suggesting a relatively small but highly engaged segment. Additionally, purchase activity declines significantly after the first transaction, highlighting potential challenges in encouraging repeat purchases."
+
+![Purchase_Count](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/purchase_count.png)
+
+
+2. **Where in the world are Wolt users?**

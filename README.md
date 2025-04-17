@@ -37,7 +37,7 @@ This analysis focuses on Wolt’s customer data from September 2019, where each 
 
 
 
-1. **How many Wolt's users made at least one order?**
+### How many Wolt's users made at least one order?
    
 As we see from the pie plot below, nearly half of Wolt's users made no purchase, highlighting a large inactive group.
 
@@ -50,4 +50,32 @@ Focusing on the distribution of the purchase count, we observe that only 22% of 
 ![Purchase_Count](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/purchase_count.png)
 
 
-2. **Where in the world are Wolt users?**
+### Where in the world are Wolt users?
+Next, we focus on the countries where users made their purchases. As seen in the barplot, a few countries dominate user activity, reflecting Wolt’s strongest market presence.
+
+![Country_Distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/8country.png)  
+
+However, we’re more interested in the proportion of active users each country has.
+The following plot highlights user activity levels by country, giving insight into how engaged Wolt users are across different regions.  
+
+![Country_Active_Ratio_distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/Countries_new.png)
+
+We notice that, although Finland has the highest number of users, Denmark leads in user engagement, with 61.5% of users placing at least one order. Finland follows with 53% active users, while Greece shows a balanced 50-50 split between active and inactive users. 
+
+### How does user activity evolve over time?
+In the next visualization, we explore two key trends: daily user registrations and the number of purchases made per registration day. By comparing these line plots, We can see how user activity matches with purchase behavior over time, and whether days with more sign-ups lead to more purchases.  
+
+![Daily_Registration_Purchases_LinePLots](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/new_combined.png)
+
+### When do users love to order?
+To better understand user behavior, we examined the timing of purchases throughout September. The following heatmap reveals patterns across days of the week and hours of the day, helping us identify peak ordering times and potential engagement windows.  
+
+![Heatmap](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/newplot%20(1).png)
+
+After analyzing the heatmap alongside the countplots, we conclude that Thursday is the busiest day for Wolt. Regarding the times of high activity alongside the day of the week, we can identify blocks with the most intense blue coloring, which indicates a high number of purchases. For example, these high-activity periods occur:
+- Between 16:00 and 19:00 every day except of Monday & Tuesday
+- Between 02:00 and 05:00 on Monday and Tuesday
+- Between 00:00 and 02:00 on Friday, Saturday & Sunday
+
+  
+

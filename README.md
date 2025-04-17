@@ -53,7 +53,7 @@ Next, we focus on the countries where users made their purchases. As seen in the
 However, we’re more interested in the proportion of active users each country has.
 The following plot highlights user activity levels by country, giving insight into how engaged Wolt users are across different regions.  
 
-![Country_Active_Ratio_distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/Countries_new.png)
+![Country_Active_Ratio_distribution](https://github.com/leonemma/Wolt-Purchase-Behavior-Analysis/blob/main/Plots/2.2last_plot.png)
 
 We notice that, although Finland has the highest number of users, Denmark leads in user engagement, with 61.5% of users placing at least one order. Finland follows with 53% active users, while Greece shows a balanced 50-50 split between active and inactive users. 
 
